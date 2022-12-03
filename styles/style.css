@@ -30,6 +30,11 @@ section {
   border: 2px solid #f3f4f6;
 }
 
+.section-post {
+  max-width: 200px;
+  max-height: 100px;
+}
+
 section:hover {
   border: 2px solid #f55;
 }
